@@ -1,0 +1,29 @@
+{
+  "properties": {
+    "name": {
+      "type": "string",
+      "title": "Name"
+    },
+    "surname": {
+      "type": "string",
+      "title": "Surname"
+    },
+    "email": {
+      "type": "string",
+      "format": "email",
+      "title": "Email"
+    },
+    "password": {
+      "type": "string",
+      "title": "Password"
+    }
+  },
+  "type": "object",
+  "required": [
+    "name",
+    "surname",
+    "email",
+    "password"
+  ],
+  "title": "UserRegister"
+}

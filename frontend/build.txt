@@ -1,0 +1,59 @@
+﻿
+> dht@0.0.0 build
+> vite build
+
+[36mvite v7.3.1 [32mbuilding client environment for production...[36m[39m
+transforming...
+[32mΓ£ô[39m 465 modules transformed.
+node.exe : 
+[31mΓ£ù[39m Build 
+failed in 1.28s
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo 
+...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: ([31mΓ£ù[39m   
+  Build failed in 1    
+.28s:String) [], R    
+emoteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+[31merror during 
+build:
+[31mCould not resolve 
+"../../../contexts/Auth
+Context" from "src/comp
+onents/Dashboard/Header
+.jsx"[31m
+file: [36mO:/d1/dht/sr
+c/components/Dashboard/
+Header.jsx[31m
+    at getRollupError (
+file:///O:/d1/dht/node_
+modules/rollup/dist/es/
+shared/parseAst.js:402:
+41)
+    at error (file:///O
+:/d1/dht/node_modules/r
+ollup/dist/es/shared/pa
+rseAst.js:398:42)
+    at ModuleLoader.han
+dleInvalidResolvedId (f
+ile:///O:/d1/dht/node_m
+odules/rollup/dist/es/s
+hared/node-entry.js:217
+10:24)
+    at file:///O:/d1/dh
+t/node_modules/rollup/d
+ist/es/shared/node-entr
+y.js:21670:26[39m

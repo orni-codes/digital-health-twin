@@ -1,0 +1,10 @@
+{
+  "message": "Login successful",
+  "user": {
+    "id": 17,
+    "name": "t",
+    "surname": "t",
+    "email": "test_9999999@example.com",
+    "login_provider": "local"
+  }
+}
