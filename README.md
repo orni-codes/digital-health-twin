@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔵 Digital Health Twin
+# Digital Health Twin
 
 ### *Simulating tomorrow’s health decisions — today.*
 
@@ -229,7 +229,7 @@ New features, AI models, integrations, and visualization capabilities are contin
 
 <div align="center">
 
-### 🔵 Digital Health Twin
+### Digital Health Twin
 
 **Personalized Health Intelligence • AI • Forecasting • Digital Twins**
 
